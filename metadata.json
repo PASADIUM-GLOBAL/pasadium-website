@@ -1,0 +1,7 @@
+{
+  "name": "PASADIUM GLOBAL",
+  "description": "Technology for the systems that move the world forward. Sovereign digital infrastructure, intelligence, media, and market products from Africa for a connected world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
